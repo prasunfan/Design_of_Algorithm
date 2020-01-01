@@ -1,0 +1,11 @@
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\obj\Debug\netcoreapp3.1\DAAvedgit.csprojAssemblyReference.cache
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\obj\Debug\netcoreapp3.1\DAAvedgit.AssemblyInfoInputs.cache
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\obj\Debug\netcoreapp3.1\DAAvedgit.AssemblyInfo.cs
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\bin\Debug\netcoreapp3.1\DAAvedgit.exe
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\bin\Debug\netcoreapp3.1\DAAvedgit.deps.json
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\bin\Debug\netcoreapp3.1\DAAvedgit.runtimeconfig.json
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\bin\Debug\netcoreapp3.1\DAAvedgit.runtimeconfig.dev.json
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\bin\Debug\netcoreapp3.1\DAAvedgit.dll
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\bin\Debug\netcoreapp3.1\DAAvedgit.pdb
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\obj\Debug\netcoreapp3.1\DAAvedgit.dll
+C:\Users\sushi\Desktop\DAAvedgit\Design_of_Algorithm\obj\Debug\netcoreapp3.1\DAAvedgit.pdb
